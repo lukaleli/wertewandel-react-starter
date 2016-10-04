@@ -1,6 +1,7 @@
 # N3xtcoder WerteWandel workshop
 
-PS. Sorry for favoring Mac users, but it's just less hassle
+PS. Sorry for favoring Mac users, but it's just less hassle.
+
 For more information about setting up environment on different platforms look [HERE](https://facebook.github.io/react-native/docs/getting-started.html#content)
 
 ## Requirements
